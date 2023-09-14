@@ -8,9 +8,9 @@ function App() {
 
   return (
     <>
-      <div className='mt-28 ml-10'>
+      <div>
       <Home></Home>
-  
+
       </div>
      
        
